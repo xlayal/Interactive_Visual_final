@@ -32,7 +32,7 @@
 ## 👭 队友要求👬
 * ##### 包括但不限于会使用或熟悉python的Flask框架、html、css；
 * ##### 有想法可以一起探讨商量，不会的内容可以互帮互助；
-* ##### 有组队意向可添加微信：XIaYaNHan-
+
 
 ![](https://upload-images.jianshu.io/upload_images/9412832-5ea7c44456a08bf9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ***
